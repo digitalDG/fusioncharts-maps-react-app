@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fusioncharts-maps-react-app/static/css/main.bb16a622.chunk.css",
+    "main.js": "/fusioncharts-maps-react-app/static/js/main.9cdbe2f8.chunk.js",
+    "main.js.map": "/fusioncharts-maps-react-app/static/js/main.9cdbe2f8.chunk.js.map",
+    "runtime-main.js": "/fusioncharts-maps-react-app/static/js/runtime-main.15000288.js",
+    "runtime-main.js.map": "/fusioncharts-maps-react-app/static/js/runtime-main.15000288.js.map",
+    "static/js/2.e864e15e.chunk.js": "/fusioncharts-maps-react-app/static/js/2.e864e15e.chunk.js",
+    "static/js/2.e864e15e.chunk.js.map": "/fusioncharts-maps-react-app/static/js/2.e864e15e.chunk.js.map",
+    "index.html": "/fusioncharts-maps-react-app/index.html",
+    "precache-manifest.852656e87a2762f64b551d1ff0a19129.js": "/fusioncharts-maps-react-app/precache-manifest.852656e87a2762f64b551d1ff0a19129.js",
+    "service-worker.js": "/fusioncharts-maps-react-app/service-worker.js",
+    "static/css/main.bb16a622.chunk.css.map": "/fusioncharts-maps-react-app/static/css/main.bb16a622.chunk.css.map",
+    "static/js/2.e864e15e.chunk.js.LICENSE": "/fusioncharts-maps-react-app/static/js/2.e864e15e.chunk.js.LICENSE",
+    "static/media/logo.svg": "/fusioncharts-maps-react-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15000288.js",
+    "static/js/2.e864e15e.chunk.js",
+    "static/css/main.bb16a622.chunk.css",
+    "static/js/main.9cdbe2f8.chunk.js"
+  ]
+}
