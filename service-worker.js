@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fusioncharts-maps-react-app/precache-manifest.852656e87a2762f64b551d1ff0a19129.js"
+  "/fusioncharts-maps-react-app/precache-manifest.28ce82ab8386d0bd3ed4ea248741c876.js"
 );
 
 self.addEventListener('message', (event) => {
